@@ -8,5 +8,9 @@
 <h1>Stats</h1>
 <img src ="https://github-readme-stats.vercel.app/api?username=ayush-py-c&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
 <p ><a  align="right" href="https://visitcount.itsvg.in">
+<img src ="https://github-readme-streak-stats.herokuapp.com/?user=ayush-py-c&theme=vue-dark&hide_border=false"/>
+<p ><a  align="right" href="https://visitcount.itsvg.in">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-py-c&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
+<p ><a  align="right" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ayush-py-c&label=Profile%20Views&color=0&icon=2&pretty=false" />
 </a></p>

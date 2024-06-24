@@ -4,7 +4,7 @@
 <p align ="center"><strong>Sorry for that! Try contacting us.....</strong></p>
 <p align="center"><a href="https://youtu.be/y1oKnAceHXo?si=N1Uu0jHpD7ybjuVx">Contact us</a></p>
 <hr>
-![ayush-py-c's Stats](https://github-readme-stats.vercel.app/api?username=ayush-py-c&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 
 <p ><a  align="right" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ayush-py-c&label=Profile%20Views&color=0&icon=2&pretty=false" />

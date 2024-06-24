@@ -5,7 +5,7 @@
 <p align="center"><a href="https://youtu.be/y1oKnAceHXo?si=N1Uu0jHpD7ybjuVx">Contact us</a></p>
 <hr>
 
-<h1>Stats</h1>
+<h1 align="center">Stats</h1>
 <img src ="https://github-readme-stats.vercel.app/api?username=ayush-py-c&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
 <p ><a  align="right" href="https://visitcount.itsvg.in">
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ayush-py-c&theme=vue-dark&hide_border=false"/>

@@ -15,5 +15,5 @@
   <img src="https://visitcount.itsvg.in/api?id=ayush-py-c&label=Profile%20Views&color=0&icon=2&pretty=false" />
 </a></p>
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake (1).svg" alt="snake"/>
 </p>

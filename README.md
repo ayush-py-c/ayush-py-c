@@ -14,7 +14,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-raj-70a34b23a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kreton2804?t=hfQeXfeaRq6P8Hea0KNbmg&s=09) 
-)
+
 <br>📨 Can contact me at kreton2804@gmail.com
 
 
